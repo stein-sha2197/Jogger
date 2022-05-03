@@ -1,0 +1,39 @@
+An app that tracks running distance and time
+Has different running programs to follow
+-couch to 5k, 5k to 10k, 10k to half, half to marathon
+-no program run (set a time or a distance)
+-warm up routine
+-cool down routine
+-drills routine
+-motivational quotes while running
+-confetti after complete
+-alerts for start, walking breaks, half-way, end
+-asks if you want to put in walking breaks
+
+Example use-cases:
+couch to 5k, drills, cool down
+warm up, run w time, cool down
+warm up, drills, cool down
+warm up
+drills
+cool down
+5k to 10k, drills
+run w distance
+warm up, drills, run w time, cool down
+
+Possible class ideas
+Jogger: 
+-user
+attr: name, age, sex
+
+jog:
+-no program run 
+-distance
+-time
+
+History:
+
+Walk breaks
+
+Confetti
+
